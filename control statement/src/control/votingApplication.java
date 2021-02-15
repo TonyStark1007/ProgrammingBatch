@@ -18,6 +18,7 @@ public class votingApplication {
 	    else
 	    {
 	    	System.out.println("pogo dekh beta ");
+		    //abhiz is here
 	    	sc1.close();    }
 	}
 
